@@ -16,7 +16,8 @@ h2 {
     font-size: 1.5rem;
 }
 
-.description {
+.description,
+.ingredients {
     color: rgb(15, 44, 99);
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
