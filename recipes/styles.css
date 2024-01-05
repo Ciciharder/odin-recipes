@@ -3,5 +3,9 @@ div {
 }
 
 .heading {
-    color: blue;
+    color: rgb(49, 61, 167);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 2rem;
 }
+
