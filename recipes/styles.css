@@ -9,3 +9,10 @@ div {
     font-size: 2rem;
 }
 
+h2 {
+    color: rgb(182, 21, 147);
+    background-color: rgb(151, 208, 223);
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
